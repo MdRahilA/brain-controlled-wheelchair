@@ -31,9 +31,6 @@ A non-invasive **EEG-driven** control system for a powered wheelchair. It decode
 ## 📸 Project Photos
 <p float="left">
   <img src="assets/photos/basic 3D diagram.png" width="340"/>
-  <img src="assets/photos/eeg_closeup.jpg" width="340"/>
+  <img src="assets/photos/wheelchair.jpg" width="340"/>
 </p>
-<p float="left">
-  <img src="assets/photos/safety_sensors.jpg" width="340"/>
-  <img src="assets/photos/ui_screenshot.png" width="340"/>
-</p>
+
