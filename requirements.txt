@@ -1,0 +1,11 @@
+numpy
+scipy
+mne
+pyxdf
+pylsl
+scikit-learn
+pandas
+matplotlib
+opencv-python
+pyserial
+python-can
