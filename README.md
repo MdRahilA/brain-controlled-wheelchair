@@ -26,7 +26,7 @@ A non-invasive **EEG-driven** control system for a powered wheelchair. It decode
 
 
 ## ⚙️ Signal-Processing Pipeline
-<img src="assets/diagrams/signal_pipeline.png" width="700"/>
+<img src="assets/photos/system pipeline.png" width="700"/>
 
 ## 📸 Project Photos
 <p float="left">
